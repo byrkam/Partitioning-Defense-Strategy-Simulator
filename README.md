@@ -1,1 +1,1 @@
-# Partitioning-Defence-Strategy
+# Partitioning-Defense-Strategy
