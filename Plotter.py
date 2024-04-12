@@ -494,47 +494,27 @@ if __name__ == "__main__":
     if args.criterion == 't':
         plot_average_times(args.criterion, f'simulation_res/N_replicas/N_replicas_{args.pol_factor}.txt',
                            f'simulation_res/One_replica/One_replica_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only/parallel/time_crit/partitions_only_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_exp/parallel/time_crit/partitions_only_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_rev_exp/parallel/time_crit/partitions_only_rev_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_add/parallel/time_crit/partitions_only_add_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_sub/parallel/time_crit/partitions_only_sub_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_dynamic/parallel/time_crit/distr_based_partitions_only_{args.pol_factor}.txt')
+                           f'simulation_res/partitions_only/time_crit/partitions_only_{args.pol_factor}.txt')
     elif args.criterion == 'r':
         plot_average_times(args.criterion, f'simulation_res/N_replicas/N_replicas_{args.pol_factor}.txt',
                            f'simulation_res/One_replica/One_replica_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only/parallel/vms_crit/partitions_only_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_exp/parallel/vms_crit/partitions_only_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_rev_exp/parallel/vms_crit/partitions_only_rev_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_add/parallel/vms_crit/partitions_only_add_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_sub/parallel/vms_crit/partitions_only_sub_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_dynamic/parallel/vms_crit/distr_based_partitions_only_{args.pol_factor}.txt')
+                           f'simulation_res/partitions_only/vms_crit/partitions_only_{args.pol_factor}.txt')
     elif args.criterion == 'cs':
         plot_average_times(args.criterion, f'simulation_res/N_replicas/N_replicas_{args.pol_factor}.txt',
                            f'simulation_res/One_replica/One_replica_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only/parallel/conns_saved_crit/partitions_only_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_exp/parallel/conns_saved_crit/partitions_only_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_rev_exp/parallel/conns_saved_crit/partitions_only_rev_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_add/parallel/conns_saved_crit/partitions_only_add_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_sub/parallel/conns_saved_crit/partitions_only_sub_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_dynamic/parallel/conns_saved_crit/distr_based_partitions_only_{args.pol_factor}.txt')
+                           f'simulation_res/partitions_only/conns_saved_crit/partitions_only_{args.pol_factor}.txt')
     elif args.criterion == 'n':
         plot_average_times(args.criterion, f'simulation_res/N_replicas/N_replicas_{args.pol_factor}.txt',
                            f'simulation_res/One_replica/One_replica_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only/parallel/without_crit/partitions_only_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_exp/parallel/without_crit/partitions_only_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_rev_exp/parallel/without_crit/partitions_only_rev_exp_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_add/parallel/without_crit/partitions_only_add_{args.pol_factor}.txt',
-                           f'simulation_res/partionions_only_sub/parallel/without_crit/partitions_only_sub_{args.pol_factor}.txt',
-                           f'simulation_res/partitions_only_dynamic/parallel/without_crit/distr_based_partitions_only_{args.pol_factor}.txt')
+                           f'simulation_res/partitions_only/without_crit/partitions_only_{args.pol_factor}.txt')
 
     if args.strategy == 'P':
         plot_connection_distribution(
-            'simulation_res/partitions_only/parallel/without_crit/partitions_only_epoch_analytics.txt',
+            'simulation_res/partitions_only/without_crit/partitions_only_epoch_analytics.txt',
             args.gt_len, args.pf, args.ps, args.s_epoch, args.e_epoch)
-        plot_bathtub('simulation_res/partitions_only/parallel/without_crit/partitions_only_epoch_analytics.txt',
+        plot_bathtub('simulation_res/partitions_only/without_crit/partitions_only_epoch_analytics.txt',
                      args.gt_len, args.pf, args.ps, 10)
-        plot_epoch_analytics('simulation_res/partitions_only/parallel/without_crit/partitions_only_epoch_analytics.txt',
+        plot_epoch_analytics('simulation_res/partitions_only/without_crit/partitions_only_epoch_analytics.txt',
                              args.gt_len, args.pf, args.ps, args.ez)
     else:
         exit(0)
