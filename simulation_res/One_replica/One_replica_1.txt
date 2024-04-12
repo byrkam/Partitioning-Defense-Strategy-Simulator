@@ -1,0 +1,11 @@
+Distribution: NORMAL----------Pollution factor: 1----------
+GroundTruth Length: 1000, Average Elapsed Time = 5012804.988417001, Total VMs spawned = 1
+GroundTruth Length: 2000, Average Elapsed Time = 10020607.479412533, Total VMs spawned = 1
+GroundTruth Length: 3000, Average Elapsed Time = 15026294.680776907, Total VMs spawned = 1
+GroundTruth Length: 4000, Average Elapsed Time = 20045868.200284183, Total VMs spawned = 1
+GroundTruth Length: 5000, Average Elapsed Time = 25052422.92060212, Total VMs spawned = 1
+GroundTruth Length: 6000, Average Elapsed Time = 30058292.72819701, Total VMs spawned = 1
+GroundTruth Length: 7000, Average Elapsed Time = 35069187.224668264, Total VMs spawned = 1
+GroundTruth Length: 8000, Average Elapsed Time = 40087736.23370405, Total VMs spawned = 1
+GroundTruth Length: 9000, Average Elapsed Time = 45093754.64074928, Total VMs spawned = 1
+GroundTruth Length: 10000, Average Elapsed Time = 50118664.77912673, Total VMs spawned = 1
