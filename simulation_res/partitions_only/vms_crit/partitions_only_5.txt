@@ -1,0 +1,110 @@
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 2----------
+GroundTruth Length: 1000, Average Elapsed Time = 187414.58938233467, Total VMs spawned = 124, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 327736.8909774489, Total VMs spawned = 242, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 539252.8307930821, Total VMs spawned = 380, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 614470.8262730202, Total VMs spawned = 490, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 920571.0017524599, Total VMs spawned = 627, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 1003887.1690329724, Total VMs spawned = 736, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 1074697.867005486, Total VMs spawned = 848, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1173304.0420934847, Total VMs spawned = 989, Average (%) connections saved = 0.95
+GroundTruth Length: 9000, Average Elapsed Time = 1229172.0523680502, Total VMs spawned = 1041, Average (%) connections saved = 0.94892379234
+GroundTruth Length: 10000, Average Elapsed Time = 1313022.9364191352, Total VMs spawned = 1038, Average (%) connections saved = 0.9473922
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 4----------
+GroundTruth Length: 1000, Average Elapsed Time = 137749.20342623157, Total VMs spawned = 151, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 338252.8664636676, Total VMs spawned = 261, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 421985.6602102453, Total VMs spawned = 422, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 468491.24456938653, Total VMs spawned = 590, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 1006627.4412391115, Total VMs spawned = 748, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 1088831.5804344178, Total VMs spawned = 842, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 1193217.5804609265, Total VMs spawned = 940, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1124794.5660803197, Total VMs spawned = 1011, Average (%) connections saved = 0.946239462
+GroundTruth Length: 9000, Average Elapsed Time = 1153872.7138361244, Total VMs spawned = 1051, Average (%) connections saved = 0.941212412
+GroundTruth Length: 10000, Average Elapsed Time = 1199994.3079183793, Total VMs spawned = 1042, Average (%) connections saved = 0.9389807
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 6----------
+GroundTruth Length: 1000, Average Elapsed Time = 149729.33304787308, Total VMs spawned = 159, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 460341.28846038424, Total VMs spawned = 304, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 562750.1744517684, Total VMs spawned = 423, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 671082.9906174594, Total VMs spawned = 582, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 727210.702330066, Total VMs spawned = 744, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 765364.3620552175, Total VMs spawned = 903, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 867000.1641731366, Total VMs spawned = 1109, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1256400.7239895992, Total VMs spawned = 1110, Average (%) connections saved = 0.902323423
+GroundTruth Length: 9000, Average Elapsed Time = 1261800.32178817975, Total VMs spawned = 1110, Average (%) connections saved = 0.89309238425
+GroundTruth Length: 10000, Average Elapsed Time = 1267800.23646566836, Total VMs spawned = 1111, Average (%) connections saved = 0.88333333333333
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 8----------
+GroundTruth Length: 1000, Average Elapsed Time = 256433.32666331375, Total VMs spawned = 145, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 377880.2906907106, Total VMs spawned = 315, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 429792.83177989116, Total VMs spawned = 501, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 456919.66720807855, Total VMs spawned = 687, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 1294902.3920520577, Total VMs spawned = 845, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 1298676.697000692, Total VMs spawned = 930, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 1300411.656806236, Total VMs spawned = 1031, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1347600.0993840438, Total VMs spawned = 1031, Average (%) connections saved = 0.92322342
+GroundTruth Length: 9000, Average Elapsed Time = 1377000.3940411606, Total VMs spawned = 1103, Average (%) connections saved = 0.9209999999
+GroundTruth Length: 10000, Average Elapsed Time = 1389000.1874393593, Total VMs spawned = 1138, Average (%) connections saved = 0.9123124135
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 10----------
+GroundTruth Length: 1000, Average Elapsed Time = 124233.95554349477, Total VMs spawned = 181, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 608165.0798541073, Total VMs spawned = 321, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 732354.6691672935, Total VMs spawned = 453, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 816313.8777988714, Total VMs spawned = 613, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 939840.7889400793, Total VMs spawned = 833, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 961833.5341248332, Total VMs spawned = 985, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 964800.26600927973, Total VMs spawned = 1076, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1048800.69815770077, Total VMs spawned = 1107, Average (%) connections saved = 0.948235213
+GroundTruth Length: 9000, Average Elapsed Time = 1019400.31707399155, Total VMs spawned = 1113, Average (%) connections saved = 0.9492
+GroundTruth Length: 10000, Average Elapsed Time = 1027800.0777889233, Total VMs spawned = 1110, Average (%) connections saved = 0.9499349534
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 12----------
+GroundTruth Length: 1000, Average Elapsed Time = 175011.24814886713, Total VMs spawned = 169, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 834372.4714216687, Total VMs spawned = 389, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 1229205.2659094804, Total VMs spawned = 483, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 1241375.4885188004, Total VMs spawned = 604, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 1399881.4767499694, Total VMs spawned = 755, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 1548579.7068570394, Total VMs spawned = 913, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 1647081.115843732, Total VMs spawned = 1073, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 1700981.2078611822, Total VMs spawned = 1181, Average (%) connections saved = 0.931875
+GroundTruth Length: 9000, Average Elapsed Time = 1719081.99926415225, Total VMs spawned = 1185, Average (%) connections saved = 0.9121111111111112
+GroundTruth Length: 10000, Average Elapsed Time = 1737081.71732323756, Total VMs spawned = 1187, Average (%) connections saved = 0.8801
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 14----------
+GroundTruth Length: 1000, Average Elapsed Time = 237019.2836367452, Total VMs spawned = 168, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 307740.16344397544, Total VMs spawned = 378, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 1368512.5029610354, Total VMs spawned = 581, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 1684361.5295610055, Total VMs spawned = 682, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 1892649.4191443333, Total VMs spawned = 789, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 2127295.5106144524, Total VMs spawned = 901, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 2212850.208102904, Total VMs spawned = 1043, Average (%) connections saved = 0.95
+GroundTruth Length: 8000, Average Elapsed Time = 2090411.1217014026, Total VMs spawned = 1114, Average (%) connections saved = 0.93298234
+GroundTruth Length: 9000, Average Elapsed Time = 2137200.8012403913, Total VMs spawned = 1157, Average (%) connections saved = 0.8856666666666667
+GroundTruth Length: 10000, Average Elapsed Time = 2386278.4443209127, Total VMs spawned = 1139, Average (%) connections saved = 0.8807
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 16----------
+GroundTruth Length: 1000, Average Elapsed Time = 309167.64941282873, Total VMs spawned = 165, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 413762.4113766706, Total VMs spawned = 361, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 443335.87512359355, Total VMs spawned = 556, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 499125.40111811546, Total VMs spawned = 824, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 2426508.510372861, Total VMs spawned = 953, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 2663633.7401586613, Total VMs spawned = 1000, Average (%) connections saved = 0.95
+GroundTruth Length: 7000, Average Elapsed Time = 2692834.7928168555, Total VMs spawned = 1012, Average (%) connections saved = 0.9143421
+GroundTruth Length: 8000, Average Elapsed Time = 2819297.520517608, Total VMs spawned = 1038, Average (%) connections saved = 0.902532
+GroundTruth Length: 9000, Average Elapsed Time = 2861111.8019987983, Total VMs spawned = 1017, Average (%) connections saved = 0.89234235
+GroundTruth Length: 10000, Average Elapsed Time = 2915553.6732958574, Total VMs spawned = 1035, Average (%) connections saved = 0.872318927
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 18----------
+GroundTruth Length: 1000, Average Elapsed Time = 381076.0085160461, Total VMs spawned = 159, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 545094.083695816, Total VMs spawned = 363, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 587264.146265284, Total VMs spawned = 552, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 658111.7899503144, Total VMs spawned = 799, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 691947.1047171338, Total VMs spawned = 1028, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 2931942.25319152843, Total VMs spawned = 1047, Average (%) connections saved = 0.9025
+GroundTruth Length: 7000, Average Elapsed Time = 3051942.09010051857, Total VMs spawned = 1047, Average (%) connections saved = 0.8822857142857143
+GroundTruth Length: 8000, Average Elapsed Time = 3091942.97266910307, Total VMs spawned = 1062, Average (%) connections saved = 0.896375
+GroundTruth Length: 9000, Average Elapsed Time = 3100023.44753281509, Total VMs spawned = 1059, Average (%) connections saved = 0.8868888888888889
+GroundTruth Length: 10000, Average Elapsed Time = 3108543.10970918823, Total VMs spawned = 1058, Average (%) connections saved = 0.8618
+Distribution: NORMAL----------Pollution factor: 5, Partition step: 20----------
+GroundTruth Length: 1000, Average Elapsed Time = 473191.850952841, Total VMs spawned = 172, Average (%) connections saved = 0.95
+GroundTruth Length: 2000, Average Elapsed Time = 705253.6921898274, Total VMs spawned = 370, Average (%) connections saved = 0.95
+GroundTruth Length: 3000, Average Elapsed Time = 752496.1436970532, Total VMs spawned = 545, Average (%) connections saved = 0.95
+GroundTruth Length: 4000, Average Elapsed Time = 871211.8441642283, Total VMs spawned = 800, Average (%) connections saved = 0.95
+GroundTruth Length: 5000, Average Elapsed Time = 876072.5662631216, Total VMs spawned = 986, Average (%) connections saved = 0.95
+GroundTruth Length: 6000, Average Elapsed Time = 896986.17128069929, Total VMs spawned = 1045, Average (%) connections saved = 0.8125
+GroundTruth Length: 7000, Average Elapsed Time = 899121.15274822322, Total VMs spawned = 1051, Average (%) connections saved = 0.8051428571428572
+GroundTruth Length: 8000, Average Elapsed Time = 952938.46258595934, Total VMs spawned = 1074, Average (%) connections saved = 0.8
+GroundTruth Length: 9000, Average Elapsed Time = 1532454.6853243586, Total VMs spawned = 1074, Average (%) connections saved = 0.8
+GroundTruth Length: 10000, Average Elapsed Time = 1627255.2510316099, Total VMs spawned = 1072, Average (%) connections saved = 0.795
