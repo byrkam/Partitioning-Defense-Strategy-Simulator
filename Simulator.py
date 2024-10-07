@@ -12,8 +12,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Run a network defense simulation.')
 
     parser.add_argument('--strategy', type=str, help='Strategy to execute: 1: Every connections is migrated to a VM, '
-                                                     '2: Only 1 VM is spawned, 3: Only partitions strategy, '
-                                                     '4: Random shuffle strategy')
+                                                     '2: Only 1 VM is spawned, 3: Only partitions strategy')
     parser.add_argument('--num_tests', type=int, default=Params.NUMBEROFTESTS, help='Number of simulation tests')
     # Add more command line arguments as needed
     return parser.parse_args()
